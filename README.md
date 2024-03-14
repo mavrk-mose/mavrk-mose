@@ -1,7 +1,7 @@
  👋 Hi, I’m Moses Kippe
-- 👀 I’m interested in crafting digital products
-- 🌱 I’m currently learning JavaScript to be a fullstack developer
-- 💞️ I’m looking to collaborate on opensource projects and anything to do with the React ecosystem
+- 👀 I’m interested in Java, TypeScript, and React Native
+- 💞️ I’m looking to collaborate on opensource projects 
+- 🥸 I'm currently learning Java 21 and NextJs
 - 📫 How to reach me kippemoses25@gmail.com
 
 <!---
