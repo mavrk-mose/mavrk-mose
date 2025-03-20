@@ -1,7 +1,7 @@
  👋 Hi, I’m Moses Kippe
-- 👀 I’m interested in Java, TypeScript, and React Native
-- 🥸 I'm currently learning Java 21 and NextJs
-- 💞️ I’m looking to collaborate on any interesting Java project
+- 👀 I’m interested in Golang & TypeScript
+- 🥸 I'm currently learning Golang and NextJs
+- 💞️ I’m looking to collaborate on any interesting Golang project
 - 📫 How to reach me kippemoses25@gmail.com
 
 <!---
